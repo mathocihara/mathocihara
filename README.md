@@ -33,6 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   <img align="center" alt="Express" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    <p></p>
 
 <!-- Animação -->
 <img src="/image/fim.gif" width="100%"  >
